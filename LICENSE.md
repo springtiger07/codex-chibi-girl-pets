@@ -23,6 +23,6 @@ The following visual assets are licensed under [Creative Commons Attribution 4.0
 
 Suggested attribution:
 
-> Miyu Codex Pet by 류재현, licensed under CC BY 4.0.
+> Miyu Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
 If you adapt the visual assets, indicate that changes were made. Neither license grants trademark rights or implies endorsement by the author or OpenAI. Third-party material, if added later, remains subject to its own stated terms.

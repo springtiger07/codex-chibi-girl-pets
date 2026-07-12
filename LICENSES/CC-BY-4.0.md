@@ -1,6 +1,6 @@
 # Creative Commons Attribution 4.0 International
 
-Copyright © 2026 류재현
+Copyright © 2026 Ryu JaeHyun
 
 The visual assets identified in [`LICENSE.md`](../LICENSE.md) are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
@@ -8,7 +8,7 @@ You are free to share and adapt those assets for any purpose, including commerci
 
 Suggested attribution:
 
-> Miyu Codex Pet by 류재현, licensed under CC BY 4.0.
+> Miyu Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
 - License deed: https://creativecommons.org/licenses/by/4.0/
 - Legal code: https://creativecommons.org/licenses/by/4.0/legalcode

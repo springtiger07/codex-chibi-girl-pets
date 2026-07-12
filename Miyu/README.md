@@ -102,6 +102,6 @@ The package uses two licenses:
 
 When sharing or adapting Miyu's visual assets, use this attribution where practical:
 
-> Miyu Codex Pet by 류재현, licensed under CC BY 4.0.
+> Miyu Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
 See the repository's [license overview](../LICENSE.md) for details.
