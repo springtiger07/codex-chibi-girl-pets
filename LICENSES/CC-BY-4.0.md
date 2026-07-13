@@ -8,6 +8,8 @@ You are free to share and adapt those assets for any purpose, including commerci
 
 Suggested attribution:
 
+> Hina Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
+
 > Miyu Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
 - License deed: https://creativecommons.org/licenses/by/4.0/

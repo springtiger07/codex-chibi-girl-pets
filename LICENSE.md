@@ -7,6 +7,10 @@ This repository uses separate licenses for functional package material and visua
 The following material is licensed under the [MIT License](LICENSES/MIT.txt):
 
 - `README.md`
+- `Hina/README.md`
+- `Hina/pet.json`
+- `Hina/SHA256SUMS`
+- `Hina/qa/`
 - `Miyu/README.md`
 - `Miyu/pet.json`
 - `Miyu/SHA256SUMS`
@@ -17,11 +21,16 @@ The following material is licensed under the [MIT License](LICENSES/MIT.txt):
 
 The following visual assets are licensed under [Creative Commons Attribution 4.0 International](LICENSES/CC-BY-4.0.md):
 
+- `Hina/spritesheet.webp`
+- `Hina/previews/`
+- `Hina/screenshots/`
 - `Miyu/spritesheet.webp`
 - `Miyu/previews/`
 - `Miyu/screenshots/`
 
 Suggested attribution:
+
+> Hina Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
 > Miyu Codex Pet by Ryu JaeHyun, licensed under CC BY 4.0.
 
