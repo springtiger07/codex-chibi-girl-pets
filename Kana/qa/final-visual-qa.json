@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "visualQA": "pass",
+  "reviewedBy": "independent-final-visual-qa",
+  "qaNote": "All nine standard animations preserve Kana's red-bobbed taekwondo identity and show distinct, stable motion with correct state semantics, clean transparency, and no clipped pose.",
+  "directionSemantics": "pass",
+  "directionNote": "All sixteen labeled directions and every fresh three-reviewer blind pair passed; the clockwise loop preserves Kana's wide guarded stance, scale, baseline, identity, and continuous guard position.",
+  "repairRows": [],
+  "reviewWarnings": [
+    "The 157.5 to 180 pixel-difference outlier was accepted because stance width, body scale, center, baseline, and guard remain visually continuous.",
+    "The 337.5 to 000 area and centroid changes were accepted because planted feet and body registration remain stable while the frontal raised-chin silhouette naturally expands.",
+    "Low-body alpha-hole candidates are intentional negative space between the wide dobok trousers, legs, and feet."
+  ]
+}
