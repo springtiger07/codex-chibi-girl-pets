@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "visualQA": "pass",
+  "reviewedBy": "independent-final-visual-qa",
+  "qaNote": "Pina's black gothic-lolita maid identity, full crops, attached tea tray and cup, opposed running gaits, real jump, and all exported previews read coherently with no visible magenta or purple halo, detached effect, or identity break.",
+  "directionSemantics": "pass",
+  "directionNote": "All sixteen directions pass labeled semantic review and form a continuous clockwise loop. Both hard blind cardinal gates pass.",
+  "repairRows": [
+    "look-row-9",
+    "look-row-10"
+  ],
+  "reviewWarnings": [
+    "Intermediate diagonal blind horizontal reads were weak or reversed; acceptance is documented in qa/blind-review-resolution.json because the hard cardinal gates and independent labeled semantic loop review passed.",
+    "Continuity metrics flagged 157.5->180 and 270->292.5 as local outliers; normal-size ordered-loop review found no visible scale, center, baseline, silhouette, tray, or identity pop."
+  ]
+}
