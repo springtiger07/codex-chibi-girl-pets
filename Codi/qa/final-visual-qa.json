@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "visualQA": "pass",
+  "reviewedBy": "independent-final-visual-qa",
+  "qaNote": "All eleven rows retain one consistent Codi identity and readable intended motion and direction loop, with no hard visual failures observed.",
+  "directionSemantics": "pass-with-reviewed-warnings",
+  "directionNote": "All sixteen labeled look directions form the expected clockwise loop with stable scale and baseline. Minor blind-review uncertainty in four intermediate horizontal cues was accepted after the labeled normal-size loop confirmed the intended quadrants and no reversal.",
+  "repairRows": [],
+  "reviewWarnings": [
+    "The lateral cues at 135, 157.5, 202.5, and 225 degrees were subtle in blind review. Labeled normal-size review confirmed the intended down-right or down-left quadrants and an uninterrupted clockwise loop.",
+    "Continuity metrics reported local center-shift and silhouette-difference outliers. Final normal-size loop review found no visible snap, clipping, scale pop, identity break, or broom detachment."
+  ]
+}
