@@ -8,6 +8,7 @@ Each character is packaged as a Codex sprite v2 pet with nine standard animation
 
 | Pet | Description | Preview |
 | --- | --- | --- |
+| [Codi](Codi/) | A cheerful little witch chibi with lavender bob hair, a violet hat, and a tiny twig broom. | <img src="Codi/screenshots/codi-idle.png" alt="Codi" width="96"> |
 | [Dekomori](Dekomori/) | A playful, delightfully eccentric academy chibi with sandy-blonde curled twin tails and a plum, blue, and pale-gold outfit. | <img src="Dekomori/screenshots/dekomori-idle.png" alt="Dekomori" width="96"> |
 | [Hina](Hina/) | Miyu's slightly aloof sister with a golden-blonde ponytail and a teal-and-cream sailor outfit. | <img src="Hina/screenshots/hina-idle.png" alt="Hina" width="96"> |
 | [Kana](Kana/) | A strong-willed yet irresistibly cute taekwondo girl with a vivid red bob and a crisp white dobok. | <img src="Kana/screenshots/kana-idle.png" alt="Kana" width="96"> |
@@ -23,6 +24,13 @@ Each character is packaged as a Codex sprite v2 pet with nine standard animation
 ```text
 codex-chibi-girl-pets/
 ├── README.md
+├── Codi/
+│   ├── README.md
+│   ├── pet.json
+│   ├── spritesheet.webp
+│   ├── previews/
+│   ├── qa/
+│   └── screenshots/
 ├── Dekomori/
 │   ├── README.md
 │   ├── pet.json
@@ -52,7 +60,7 @@ Open a pet folder for installation instructions, animation previews, and public 
 
 ## 한국어 안내
 
-Codex 데스크톱 앱에서 사용할 수 있는 오리지널 치비 소녀 애니메이션 펫 컬렉션입니다. 현재 장난스럽고 엉뚱한 아카데미 캐릭터 데코모리, 미유·히나·리나 자매, 요정 마법소녀 루미, 여름 원피스 캐릭터 나미, 마법 괴도풍 캐릭터 네티, 신비로운 기모노 캐릭터 유라, 태권도복을 입은 강인하고 귀여운 카나를 제공합니다.
+Codex 데스크톱 앱에서 사용할 수 있는 오리지널 치비 소녀 애니메이션 펫 컬렉션입니다. 현재 보랏빛 모자와 작은 빗자루를 든 꼬마마녀 코디, 장난스럽고 엉뚱한 아카데미 캐릭터 데코모리, 미유·히나·리나 자매, 요정 마법소녀 루미, 여름 원피스 캐릭터 나미, 마법 괴도풍 캐릭터 네티, 신비로운 기모노 캐릭터 유라, 태권도복을 입은 강인하고 귀여운 카나를 제공합니다.
 
 모든 캐릭터는 Codex sprite v2 규격으로 제작되었으며, 각 폴더에는 설치 파일, 아홉 가지 기본 동작 GIF, 열여섯 방향 시선 미리보기와 공개용 검증 결과가 포함되어 있습니다.
 
