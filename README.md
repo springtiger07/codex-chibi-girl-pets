@@ -18,6 +18,7 @@ Each character is packaged as a Codex sprite v2 pet with nine standard animation
 | [Neti](Neti/) | A clever magical-thief chibi girl with a copper-orange side ponytail and a burgundy, black, and lavender outfit. | <img src="Neti/screenshots/neti-idle.png" alt="Neti" width="96"> |
 | [Pina](Pina/) | A courteous gothic-lolita chibi maid with a pearl-gray bob, black velvet dress, ivory lace apron, and a tiny silver tea tray. | <img src="Pina/screenshots/pina-idle.png" alt="Pina" width="96"> |
 | [Rina](Rina/) | Miyu and Hina's shy sister with a short chestnut-brown bob and a lavender-and-ivory sailor outfit. | <img src="Rina/screenshots/rina-idle.png" alt="Rina" width="96"> |
+| [Sori](Sori/) | A shy, delicate chibi rhythmic gymnast with a blush-pink leotard, ribbon wand, and quiet graceful poses. | <img src="Sori/screenshots/sori-idle.png" alt="Sori" width="96"> |
 | [Yura](Yura/) | A mysterious moonlit chibi girl with a long blue-black braid and an indigo kimono. | <img src="Yura/screenshots/yura-idle.png" alt="Yura" width="96"> |
 
 ## Repository layout
@@ -55,6 +56,8 @@ codex-chibi-girl-pets/
 │   └── ...
 ├── Rina/
 │   └── ...
+├── Sori/
+│   └── ...
 └── Yura/
     └── ...
 ```
@@ -63,7 +66,7 @@ Open a pet folder for installation instructions, animation previews, and public 
 
 ## 한국어 안내
 
-Codex 데스크톱 앱에서 사용할 수 있는 오리지널 치비 소녀 애니메이션 펫 컬렉션입니다. 현재 보랏빛 모자와 작은 빗자루를 든 꼬마마녀 코디, 장난스럽고 엉뚱한 아카데미 캐릭터 데코모리, 미유·히나·리나 자매, 요정 마법소녀 루미, 여름 원피스 캐릭터 나미, 마법 괴도풍 캐릭터 네티, 검정 벨벳 고딕 로리타 메이드복과 은색 티 트레이를 든 공손한 피나, 신비로운 기모노 캐릭터 유라, 태권도복을 입은 강인하고 귀여운 카나를 제공합니다.
+Codex 데스크톱 앱에서 사용할 수 있는 오리지널 치비 소녀 애니메이션 펫 컬렉션입니다. 현재 보랏빛 모자와 작은 빗자루를 든 꼬마마녀 코디, 장난스럽고 엉뚱한 아카데미 캐릭터 데코모리, 미유·히나·리나 자매, 요정 마법소녀 루미, 여름 원피스 캐릭터 나미, 마법 괴도풍 캐릭터 네티, 검정 벨벳 고딕 로리타 메이드복과 은색 티 트레이를 든 공손한 피나, 연분홍 리듬체조 레오타드와 리본 완드를 든 수줍고 여린 소리, 신비로운 기모노 캐릭터 유라, 태권도복을 입은 강인하고 귀여운 카나를 제공합니다.
 
 모든 캐릭터는 Codex sprite v2 규격으로 제작되었으며, 각 폴더에는 설치 파일, 아홉 가지 기본 동작 GIF, 열여섯 방향 시선 미리보기와 공개용 검증 결과가 포함되어 있습니다.
 

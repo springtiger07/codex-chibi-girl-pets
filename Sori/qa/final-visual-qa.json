@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "visualQA": "pass",
+  "reviewedBy": "independent-final-visual-qa",
+  "qaNote": "All eleven atlas rows consistently depict one petite, shy Sori with a very fair ivory-peach complexion, blush-pink long-sleeve leotard, chestnut ponytail, and one compact ribbon loop attached to her right-hand white wand. The review found no visible clipping, detached prop, identity split, gait reversal, or material scale pop.",
+  "directionSemantics": "pass with reviewed intermediate warnings",
+  "directionNote": "The hard cardinal directions are unmistakable: 000 rear/up, 090 screen-right profile, 180 front/down, and 270 screen-left profile. The labeled semantic review has no fail verdicts; subtle intermediate cues are accepted with the documented blind-review and continuity evidence.",
+  "repairRows": [],
+  "reviewWarnings": [
+    "Several diagonal direction transitions are intentionally subtle.",
+    "Continuity diagnostics reported modest 000->022.5, 157.5->180, 247.5->270, and 337.5->000 shifts; normal-size visual review found no material pop or semantic reversal."
+  ]
+}
